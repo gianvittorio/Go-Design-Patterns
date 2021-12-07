@@ -15,5 +15,5 @@ func NewPerson(name string, age int) *Person {
 }
 
 func main() {
-	p := NewPerson("John", 22)
+	// p := NewPerson("John", 22)
 }

@@ -85,6 +85,6 @@ func (m *MultiFunctionMachine) Scan(d Document) {
 }
 
 func main() {
-	ofp := OldFashionedPrinter{}
-	ofp.Scan()
+	// ofp := OldFashionedPrinter{}
+	// ofp.Scan()
 }

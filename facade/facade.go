@@ -43,6 +43,6 @@ func (c *Console) GetCharacterAt(index int) rune {
 }
 
 func main() {
-	c := NewConsole()
-	u := c.GetCharacterAt(1)
+	// c := NewConsole()
+	// u := c.GetCharacterAt(1)
 }
